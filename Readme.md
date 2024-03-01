@@ -1,7 +1,7 @@
 CorpusScraper
 =============
 
-By Digital Humanities Lab, Utrecht University
+By [Research Software Lab](https://cdh.uu.nl/about/research-software-lab/), Centre for Digital Humanities, Utrecht University
 
 
 Motivation
